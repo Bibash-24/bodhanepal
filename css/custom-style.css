@@ -11,3 +11,12 @@
     height: 100%;
     width: 100%;
 }
+.contact-location-map .contact-location-map-block {
+    width: 100%;
+    height: 100%;
+}
+.contact-location-map .contact-location-map-block .iframe-location-map {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
