@@ -3,3 +3,12 @@
     left: -45px;
     position: absolute;
 }
+
+.carousel-inner .carousel-item {
+    height: 100vh;
+    width: 100%;
+}
+.carousel-inner .carousel-item img {
+    height: 100%;
+    width: 100%;
+}
